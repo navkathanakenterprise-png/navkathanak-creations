@@ -1,0 +1,10 @@
+{
+  "name": "navkathanak-creations",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "serve -s build",
+    "build": "echo 'Static HTML build already included.'"
+  },
+  "dependencies": {}
+}
